@@ -1,0 +1,16 @@
+:root {
+    --primary: rgb(188, 0, 0);
+}
+
+li.nav-item {
+    text-align: center;
+}
+
+a {
+    color: var(--primary) !important;
+}
+
+.active {
+    background-color: rgb(188, 0, 0) !important;
+    color: white !important;
+}
