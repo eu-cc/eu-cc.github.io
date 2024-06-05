@@ -42,9 +42,13 @@ a {
 }
 
 .stars {
-    color: rgb(255, 225, 0);
+    color: var(--primary);
     font-size: 1.5rem;
     width: 150px;
+}
+
+.encuesta-btn {
+    border: 1px solid var(--primary) !important;
 }
 
 @media screen and (min-width: 576px) {
