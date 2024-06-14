@@ -22,7 +22,6 @@ a {
 }
 
 .btn-secondary {
-    background-color: var(--secondary);
 }
 
 .bg-instagram {
@@ -42,7 +41,7 @@ a {
 }
 
 .stars {
-    color: var(--primary);
+    color: yellow;
     font-size: 1.5rem;
     width: 150px;
 }
